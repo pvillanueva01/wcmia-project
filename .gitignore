@@ -9,8 +9,7 @@ wp-content/upgrade/
 wp-content/uploads/
 wp-content/mu-plugins/
 wp-content/wp-cache-config.php
-wp-content/plugins/
-
+wp-content/plugins/askimet/
 /.htaccess
 /license.txt
 /readme.html
@@ -35,3 +34,6 @@ wp-trackback.php
 xmlrpc.php
 index.php
 wp-content/themes/
+wp-content/plugins/askimet/
+wp-content/plugins/classic-editor/
+wp-content/plugins/index.php
