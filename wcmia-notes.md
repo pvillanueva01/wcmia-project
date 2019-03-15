@@ -19,3 +19,5 @@ https://carlalexander.ca/approaching-object-oriented-programming-wordpress/#slid
 - Most plugins need Class Admin Page, Class Options, Class Metabox, Class Plugin
 - Ecommerce Classes products, sales, etc.
 - These classes have properties, methods, a constructor
+
+## Tools and Techniques for WP Local Development
