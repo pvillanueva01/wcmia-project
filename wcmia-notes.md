@@ -2,7 +2,9 @@
 
 Topics: Hooks, actions, settings, Customizer API
 
-- Create folder tocontain all files
+https://github.com/davidwolfpaw/wcmia2019-plugin-workshop
+
+- Create folder toc ontain all files
 - You can separate sections of your code into different files and add them as includes
 
 ## OOP with Wordpress 
